@@ -1,0 +1,4 @@
+-r requirements.txt
+
+expects==0.7.0
+mamba==0.8.4
